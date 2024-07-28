@@ -1,1 +1,1 @@
-# Fastag-Fraud-Detection
+My ML project on FASTag fraud detection focuses on identifying and preventing fraudulent activities in the electronic toll collection system. By leveraging machine learning algorithms, the project aims to detect anomalies and suspicious transactions in real-time, ensuring the security and efficiency of the toll payment process.
